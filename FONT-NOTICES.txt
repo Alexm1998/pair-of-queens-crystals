@@ -1,0 +1,23 @@
+editorial-italic.otf
+(URW)++,Copyright 2014 by (URW)++ Design & Development
+P052
+
+editorial-serif.otf
+(URW)++,Copyright 2014 by (URW)++ Design & Development
+P052
+
+body-regular.ttf
+Ascender Corporation
+Digitized data copyright © 2010-2011, Google Corporation.
+Licensed under the Apache License, Version 2.0
+Open Sans
+Open Sans is a trademark of Google and may be registered in certain jurisdictions.
+http://www.apache.org/licenses/LICENSE-2.0
+
+body-semibold.ttf
+Ascender Corporation
+Digitized data copyright © 2011, Google Corporation.
+Licensed under the Apache License, Version 2.0
+Open Sans Semibold
+Open Sans is a trademark of Google and may be registered in certain jurisdictions.
+http://www.apache.org/licenses/LICENSE-2.0
